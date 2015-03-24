@@ -1,0 +1,7 @@
+#git
+git update-index --assume-unchanged ./config.php
+git remote -v
+git remote add origin <URL of the repository>
+
+#.htaccess
+AddDefaultCharset UTF-8

@@ -2,6 +2,8 @@
 git update-index --assume-unchanged ./config.php
 git remote -v
 git remote add origin <URL of the repository>
+git branch -> show all branches
+git merge <name of branch>
 
 #.htaccess
 AddDefaultCharset UTF-8

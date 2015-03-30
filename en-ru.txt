@@ -1,0 +1,54 @@
+bash	удар
+stand-alone	автономный
+issue	проблема
+purchases	Покупка
+purge	чистка
+recipient	получатель
+delivered	поставляется
+discard	отбрасывать
+exceed	превышать
+execute	выполнять
+exception	исключение
+except	кроме
+layout	расположение
+trim	обрезать
+explode	взорвать
+path	путь
+insensitive	нечувствительный
+define	определять
+switch	переключатель
+assume	предполагать
+resume	продолжить
+networking	сети
+deny	отказать
+up-to-date	до настоящего времени
+failure	отказ
+log	журнал
+derive	получать
+refuse	отказываться
+suspend	приостановить
+enable	включить
+font	шрифт
+icon	значок
+заголовок	title
+margin	запас
+padding	обивка
+inherite	унаследовать
+prepend	перед именем файла
+append	добавлять
+write out	выписывать
+justify	обосновать
+implement	осуществлять
+deploy	развертывание
+stage	этап
+intro	введение
+optional	необязательный
+pull	тянуть
+push	толчок
+hint	намек
+discard	отказаться от
+send verification email	отправить письмо с подтверждением
+failed	не удалось
+permanently	постоянно
+commit	совершить
+fetch	получать

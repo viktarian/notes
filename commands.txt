@@ -13,3 +13,6 @@ git stash -> спрятать недоделанные изменения
 
 #.htaccess
 AddDefaultCharset UTF-8
+
+#ubuntu
+Ctrl+Win+D -> svernut vse okna

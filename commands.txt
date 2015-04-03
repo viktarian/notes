@@ -1,15 +1,20 @@
 #git
 git update-index --assume-unchanged ./config.php
 git remote -v
-git remote add origin <URL of the repository>
+git remote add origin <URL of the repository> (example:  git remote add origin 				https://viktarian@bitbucket.org/viktarian/mvradio.git)
 git branch -> show all branches (git branch -v)
-git merge <name of branch>
 git branch <name of branch> -> create new branch
+git merge <name of branch>
 git checkout <name of branch> -> go to other branch
 git stash -> спрятать недоделанные изменения
 ?git stash list
 ?git stash apply
 ?git stash apply stash@{0} -> применить одну из старых заначек
+git mv <file> <folder>
+git mv *.txt <folder>
+git mv *.* <folder>
+git mv <folder, которую перемещаем> <folder> -> перемещение папки в папку
+
 
 #.htaccess
 AddDefaultCharset UTF-8

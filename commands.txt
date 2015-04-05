@@ -21,3 +21,5 @@ AddDefaultCharset UTF-8
 
 #ubuntu
 Ctrl+Win+D -> svernut vse okna
+
+#test

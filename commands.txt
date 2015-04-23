@@ -1,4 +1,4 @@
-#git
+﻿#git
 git update-index --assume-unchanged ./config.php
 git remote -v
 git remote add origin <URL of the repository> (example:  git remote add origin https://viktarian@bitbucket.org/viktarian/mvradio.git)
@@ -14,6 +14,7 @@ git mv <file> <folder>
 git mv *.txt <folder>
 git mv *.* <folder>
 git mv <folder, которую перемещаем> <folder> -> перемещение папки в папку
+git rm <file>
 
 
 #.htaccess

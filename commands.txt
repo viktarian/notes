@@ -16,6 +16,10 @@ git mv *.* <folder>
 git mv <folder, которую перемещаем> <folder> -> перемещение папки в папку
 git rm <file>
 
+git коммиты
+git log - история последних коммитов
+git reset --hard <name of коммита> - вернуться к конкретному коммиту
+
 
 #.htaccess
 AddDefaultCharset UTF-8

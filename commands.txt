@@ -15,6 +15,7 @@ git mv *.txt <folder>
 git mv *.* <folder>
 git mv <folder, которую перемещаем> <folder> -> перемещение папки в папку
 git rm <file>
+git add --all ->после этого, по идее, не должно быть проблем с удаленными файлами
 
 
 #.htaccess

@@ -1,6 +1,10 @@
 ﻿#git
 git update-index --assume-unchanged ./config.php
 git remote -v
+
+git config --global user.name "viktarian mv wind"
+git config --global user.email 'viktar.akulenka@yandex.ru'
+
 git remote add origin <URL of the repository> (example:  git remote add origin https://viktarian@bitbucket.org/viktarian/mvradio.git)
 git branch -> show all branches (git branch -v)
 git branch <name of branch> -> create new branch

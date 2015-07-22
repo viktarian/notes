@@ -29,7 +29,7 @@ git compare files
 git diff - для сравнения рабочей версии с версией в репозитории
 git diff --staged - для сравнения проиндексировонной версии с версией в репозитории
 git diff 0644c20  73a4c4c - для сравнения репозиторных версий
-
+test
 
 #.htaccess
 AddDefaultCharset UTF-8

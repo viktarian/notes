@@ -1,0 +1,17 @@
+blur	пятно
+yawn	зевать
+eternal	вечный
+blush	румянец
+popup	неожиданно возникнуть
+tiny	крошечный
+match	соответствие
+entire	весь
+aside	в сторону
+aside	кроме
+mutual	взаимное
+awesome	здорово
+Felicità	счастье
+expiry	истечения срока
+expiry	истечение
+долгота	longitude
+широта	latitude

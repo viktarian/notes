@@ -40,8 +40,6 @@ AddDefaultCharset UTF-8
 Ctrl+Win+D -> svernut vse okna
 	#после установки убунту
 sudo aptget install git
-	#терминал
-search->терминал
 	#установка скайпа
 1)
 sudo apt-get install libqt4-dbus libqt4-network libqt4-xml libasound2
@@ -54,13 +52,6 @@ wget http://www.skype.com/go/getskype-linux-beta-ubuntu-64
 sudo dpkg -i getskype-*
 4)
 sudo apt-get -f install
-	#установка вибера
-1)
-#установка виндовс-фишки
-sudo apt-get install wine
-2)wget http://download.cdn.viber.com/cdn/desktop/windows/ViberSetup.exe
-3)wine ViberSetup.exe
-
 
 
 

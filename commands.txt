@@ -60,8 +60,10 @@ sudo apt-get -f install
 sudo apt-get install wine
 2)wget http://download.cdn.viber.com/cdn/desktop/windows/ViberSetup.exe
 3)wine ViberSetup.exe
-
-
+	#Установка Sublime Text 2
+sudo add-apt-repository ppa:webupd8team/sublime-text-2
+sudo apt-get update
+sudo apt-get install sublime-text
 
 
 #test

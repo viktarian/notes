@@ -41,3 +41,6 @@ sudo su
 
 	#open файлы с хитрым доступом
 sudo gedit /etc/hosts
+
+	#kohana
+начал работать http://dev-mark.blogspot.com.by/2011/01/kohana-3-ubuntu.html

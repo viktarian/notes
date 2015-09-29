@@ -3,6 +3,8 @@ Ctrl+Win+D -> svernut vse okna
 sudo aptget install git
 	#терминал
 search->терминал
+	#vim
+sudo apt-get install vim
 	#установка скайпа
 1)
 sudo apt-get install libqt4-dbus libqt4-network libqt4-xml libasound2

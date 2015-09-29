@@ -36,48 +36,6 @@ test
 #.htaccess
 AddDefaultCharset UTF-8
 
-#ubuntu
-Ctrl+Win+D -> svernut vse okna
-	#после установки убунту
-sudo aptget install git
-	#терминал
-search->терминал
-	#установка скайпа
-1)
-sudo apt-get install libqt4-dbus libqt4-network libqt4-xml libasound2
-2)
-Skype 32-bit: 
-wget http://www.skype.com/go/getskype-linux-beta-ubuntu-32
-Skype 64-bit: 
-wget http://www.skype.com/go/getskype-linux-beta-ubuntu-64
-3)
-sudo dpkg -i getskype-*
-4)
-sudo apt-get -f install
-	#установка вибера
-1)
-#установка виндовс-фишки
-sudo apt-get install wine
-2)wget http://download.cdn.viber.com/cdn/desktop/windows/ViberSetup.exe
-3)wine ViberSetup.exe
-	#Установка Sublime Text 2
-sudo add-apt-repository ppa:webupd8team/sublime-text-2
-sudo apt-get update
-sudo apt-get install sublime-text
-	#установка saveFrom.net помощника
-просто загуглить и нажать "установить"
-	#lampp
-wget http://downloads.sourceforge.net/project/xampp/XAMPP%20Linux/1.8.3/xampp-linux-1.8.3-4-installer.run
-sudo chmod +x xampp-linux-1.8.3-4-installer.run
-sudo ./xampp-linux-1.8.3-4-installer.run
-		#activation
-cd /opt/lampp
-sudo chmod 777 htdocs
-		#start/stop
-sudo su
-/opt/lampp/lampp start
-/opt/lampp/lampp stop
-
 	#php
 <VirtualHost *:80> 
     ServerAdmin "admin@ko3.loc"
@@ -88,7 +46,6 @@ sudo su
     CustomLog "logs/dummy-host2.example.com-access.log" common
    ServerAlias "lh"   -> is waiting
 </VirtualHost>
-	#kohana
+	#kohana on windows
 http://kupreev.com/page/deploy-kohana3-xampp-windows
 
-#test

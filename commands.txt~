@@ -78,6 +78,17 @@ sudo su
 /opt/lampp/lampp start
 /opt/lampp/lampp stop
 
-
+	#php
+<VirtualHost *:80> 
+    ServerAdmin "admin@ko3.loc"
+	DocumentRoot D:\xampp\htdocs\
+	
+    ServerName "localhost"
+	ErrorLog "logs/dummy-host2.example.com-error.log"
+    CustomLog "logs/dummy-host2.example.com-access.log" common
+   ServerAlias "lh"   -> is waiting
+</VirtualHost>
+	#kohana
+http://kupreev.com/page/deploy-kohana3-xampp-windows
 
 #test

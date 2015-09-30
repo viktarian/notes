@@ -46,3 +46,6 @@ sudo gedit /etc/hosts
 
 	#kohana
 начал работать http://dev-mark.blogspot.com.by/2011/01/kohana-3-ubuntu.html
+после закачки-распаковки
+chmod 777 /opt/lampp/htdocs/koh3/application/cache/
+chmod 777 /opt/lampp/htdocs/koh3/application/logs/

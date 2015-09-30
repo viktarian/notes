@@ -48,4 +48,5 @@ AddDefaultCharset UTF-8
 </VirtualHost>
 	#kohana on windows
 http://kupreev.com/page/deploy-kohana3-xampp-windows
+http://habrahabr.ru/post/111382/
 

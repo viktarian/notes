@@ -59,7 +59,7 @@ ls -l <filename (dirname)>
     Только выполнение (--x) - 1
 изначально drwxr-xr-x у /var/www/html
 chmod 777 <way>
-sudo chmod -R 777 /var/www/html/koh3 - 
+sudo chmod -R 777 /var/www/html/koh3 - для рекурсивного объявления прав
 
 
 	#kohana
